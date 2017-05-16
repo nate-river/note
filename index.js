@@ -69,5 +69,4 @@ var app = new Vue({
       this.notes = JSON.parse(localStorage.notes);
     }
   }
-
 });
